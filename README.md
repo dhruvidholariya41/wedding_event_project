@@ -1,15 +1,27 @@
-Wedding Event Management System
+# Wedding Event Management System
 
-Technologies:
+A web-based Wedding Event Management System developed using PHP and MySQL for managing bookings, events, customers, and services.
+
+## Technologies Used
 - PHP
 - MySQL
-- HTML/CSS
+- HTML
+- CSS
 - JavaScript
 
-Features:
-- User Registration
-- Wedding Booking
+## Features
+- User Registration and Login
+- Wedding Booking System
 - Staff Management
+- Admin Dashboard
+- Event Services Management
+- Customer Management
+
+## Project Modules
 - Admin Panel
-- Event Services
-- 
+- User Panel
+- Booking Management
+- Service Management
+
+## Developed By
+Dhruvi Dholariya
